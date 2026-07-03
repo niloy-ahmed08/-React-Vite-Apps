@@ -17,7 +17,7 @@ const Footer = () => {
   return (
     <>
     
-        <footer id='contect' className='bg-[url(./assets/footers.png)] bg-cover bg-center bg-no-repeat py-26.75 px-55 pb-15.5'>
+        <footer id='contect' className='bg-[url(./assets/Footers.png)] bg-cover bg-center bg-no-repeat py-26.75 px-55 pb-15.5'>
 
         <Container>
            <div className=''>
